@@ -1,0 +1,4 @@
+name: Shiva singh tomar
+institution: Amity University Noida
+quote:“The world is one big data problem.” ~Andrew McAfee.
+github_user: name: andrewshiva
